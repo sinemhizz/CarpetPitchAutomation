@@ -288,7 +288,6 @@ namespace hali_saha_otomasyonu
             MessageBox.Show("Kayıt Silindi.");
         }
 
-        
 
         private void button_abone_Click(object sender, EventArgs e)
         {
